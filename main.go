@@ -11,4 +11,5 @@ func main() {
 
 	fmt.Print(a, b)
 	fmt.Print(c, b)
+	fmt.Print(a, c, b)
 }
